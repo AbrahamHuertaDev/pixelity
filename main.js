@@ -1,4 +1,4 @@
-const PixelityBrain = require('./neural-network');
+const PixelityBrain = require('./brain');
 
 const sentences = [
     {
